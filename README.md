@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Lê Công Hồng Phúc 👋</h1>
-<h3 align="center">Information Security Student @ UIT | CTF Player | Iu Bao Anht</h3>
+<h3 align="center">Information Security Student @ UIT | CTF Player | Iu Bao Anh</h3>
 
 <p align="center">
   <a href="">
     <!-- Hiệu ứng chữ gõ máy tính -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D16A&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Cryptography;Linux+Lover+(Arch+btw)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D16A&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Cryptography;Linux+Lover+(Arch+btw);Iu+Bao+Anh" alt="Typing SVG" />
   </a>
 </p>
 

@@ -4,7 +4,7 @@
 <p align="center">
   <a href="">
     <!-- Hiệu ứng chữ gõ máy tính -->
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27D16A&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Cryptography;Linux+Lover+(Arch+btw);Iu+Bao+Anh" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=27D16A&center=true&vCenter=true&width=500&lines=Cybersecurity+Enthusiast;Pwnable+WebExploit;Linux+Lover+(Arch+btw);Iu+Bao+Anh" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 * 🎯 My main focus in CTF competitions is **Cryptography**.
 * 💻 My daily driver is **Arch Linux** (Hyprland), and I enjoy scripting, system configurations, and solving algorithmic problems.
 * 🔍 Currently researching **Blockchain Security**
-* 📫 How to reach me: [linhtranhoai1307@gmail.com](mailto:linhtranhoai1307@gmail.com)
+* 📫 How to reach me: [phuc16082007@gmail.com](mailto:phuc16082007@gmail.com)
 
 ---
 

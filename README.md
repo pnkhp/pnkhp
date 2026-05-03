@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lê Công Hồng Phúc 👋</h1>
-<h3 align="center">Information Security Student @ UIT | CTF Player | Iu Bao Anh</h3>
+<h3 align="center">Information Security Student @ UIT | CTF Player | Security</h3>
 
 <p align="center">
   <a href="">

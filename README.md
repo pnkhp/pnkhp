@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 I'm currently studying **Information Security** at **UIT (VNU-HCM)**. 
-* 🎯 My main focus in CTF competitions is **Cryptography**.
+* 🎯 My main focus in CTF competitions is **Web**.
 * 💻 My daily driver is **Arch Linux** (Hyprland), and I enjoy scripting, system configurations, and solving algorithmic problems.
 * 🔍 Currently researching **Blockchain Security**
 * 📫 How to reach me: [phuc16082007@gmail.com](mailto:phuc16082007@gmail.com)
